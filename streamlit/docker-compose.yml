@@ -1,0 +1,6 @@
+version: '1'
+services:
+  streamlit-app:
+    build: .
+    ports:
+      - "5007:5007"
