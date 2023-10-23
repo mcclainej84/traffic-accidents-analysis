@@ -33,8 +33,8 @@
 
 Este repositorio alberga un proyecto de análisis de datos de accidentes de tráfico en la ciudad de Madrid. El objetivo principal de este proyecto es comprender mejor las causas de los accidentes de tráfico en Madrid. Este proyecto se organiza en dos carpetas principales:
 
--Streamlit: Aplicación de Streamlit
--Project: Projecto de enriquecimiento y limpieza de los datos
+- Streamlit: Aplicación de Streamlit
+- Project: Projecto de enriquecimiento y limpieza de los datos
 
 ## 1. Fuentes Principales del Proyecto
 
